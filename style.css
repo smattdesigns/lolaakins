@@ -1,0 +1,76 @@
+html {
+  height: 100%;
+  background: 50% 50% no-repeat
+    url('data:image/svg+xml,<svg viewBox="-20 -5 60 40" width="140" xmlns="http://www.w3.org/2000/svg" opacity="0.2"><path d="M1 8l11-7 11 7v8l-11 7-11-7zm0 0l11 8 11-8m0 8L12 8 1 16M12 1v7m0 8v7" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="2"/><text x="-12" y="32" font-size="5" font-family="monospace" fill="currentColor">Built on CodePen</text></svg>');
+}
+
+body {
+  font-size: 17px;
+  font-family: monospace;
+  line-height: 1.5;
+  padding: 20px;
+  
+}
+
+h1{
+  font-size: 2.5em;
+}
+
+#lndn {
+  background-color: #6a4e26;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-bottom: 30px;
+}
+
+#lndn-bio {
+  font-family: monospace;
+  font-size: 17px;
+} 
+
+p {
+  margin-bottom: 25px;
+}
+
+h2 {
+  margin-top: 40px;
+  margin-bottom: 15px;
+}
+
+#bus {
+  display: block;
+  margin: 40px auto;
+  width: 60%;
+}
+
+#list {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+} 
+
+#tower {
+  display: block;
+  margin: 40px auto;
+}
+
+#food {
+  margin-top: 50px;
+  margin-bottom: 40px;
+} 
+
+#fancy {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  font-size: 2em;
+  color: #DC143C;
+  margin-top: 40px;
+  margin-bottom: 40px;
+} 
+
+#cuppa {
+  width: 200px;
+  margin-top: 0px;
+}
